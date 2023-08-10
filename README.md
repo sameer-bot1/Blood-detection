@@ -1,5 +1,5 @@
 # Blood-detection
-Using Random Forest
+**Using Random Forest**
 
 
 **Interface** - 
